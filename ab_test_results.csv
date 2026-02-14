@@ -1,0 +1,3 @@
+Test,Statistic,P_Value,Significant
+Two-Proportion Z-Test,7.370078127,1.71E-13,TRUE
+Chi-Square Test,54.00582388,2.00E-13,TRUE

@@ -1,0 +1,5 @@
+Metric,Point_Estimate,CI_Lower_95,CI_Upper_95
+Control Conversion Rate,0.017854106,0.016161884,0.019546329
+Treatment Conversion Rate,0.02554656,0.025134992,0.025958127
+Absolute Difference,0.007692453,0.0059509,0.009434006
+Relative Lift,0.43085064,0.333307099,0.528394181
